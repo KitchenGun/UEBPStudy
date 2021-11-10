@@ -7,3 +7,6 @@
 6,Fist,AnimMontage'/Game/Character/Montages/Fist/Fist_Attack_2_Montage.Fist_Attack_2_Montage',1,,FALSE,10,0,,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)","(Pitch=0,Yaw=0,Roll=0)",
 7,Fist,AnimMontage'/Game/Character/Montages/Fist/Fist_Attack_3_Montage.Fist_Attack_3_Montage',1,,FALSE,15,0,,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)","(Pitch=0,Yaw=0,Roll=0)",
 8,Fist,AnimMontage'/Game/Character/Montages/Fist/Fist_Attack_3_Montage.Fist_Attack_3_Montage',1,Start,FALSE,15,0,,,"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)","(Pitch=0,Yaw=0,Roll=0)",
+9,FireBall,AnimMontage'/Game/Character/Montages/Wizard/Wizard_FireBall_Montage.Wizard_FireBall_Montage',1.5,,TRUE,10,0,,ParticleSystem'/Game/Effects/P_Hit_Fire.P_Hit_Fire',"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)","(Pitch=0,Yaw=0,Roll=0)",
+10,FireStorm,AnimMontage'/Game/Character/Montages/Wizard/Wizard_FireStorm_Montage.Wizard_FireStorm_Montage',1.5,,TRUE,5,0,,ParticleSystem'/Game/Effects/P_FireStorm.P_FireStorm',"(X=0,Y=0,Z=-75)","(X=0.75,Y=0.75,Z=0.75)","(Pitch=0,Yaw=0,Roll=0)",
+11,Warp,AnimMontage'/Game/Character/Montages/Wizard/Wizard_Warp_Montage.Wizard_Warp_Montage',1.5,,TRUE,0,0,,ParticleSystem'/Game/Effects/P_Warp.P_Warp',"(X=0,Y=0,Z=0)","(X=1,Y=1,Z=1)","(Pitch=0,Yaw=0,Roll=0)",
